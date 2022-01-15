@@ -1,0 +1,21 @@
+* { box-sizing: border-box;}
+
+
+body {
+  background-color: teal;
+  margin: 0;
+}
+
+.parent {
+  background-color: #23424A;
+  padding: 4em;
+
+  margin: 0 auto;
+  width: 80%;
+}
+
+.child {
+  background-color: #38CFD9;
+  
+  height: 250px;
+}
