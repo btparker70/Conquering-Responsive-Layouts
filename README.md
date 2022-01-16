@@ -15,3 +15,4 @@ Day2:
 7. Better to have rems for stuff like margin, because it will be consistent. If you use em it will vary between divs because it's based off of their individual font sizes
 8. Use rem for font. set ::root {} or just use html{}
 9. ems are better for margin and padding because they reference that element not the parent
+10. max-width is good, min-width not really
