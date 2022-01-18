@@ -16,3 +16,5 @@ Day2:
 8. Use rem for font. set ::root {} or just use html{}
 9. ems are better for margin and padding because they reference that element not the parent
 10. max-width is good, min-width not really
+11. % is always based off of the parent
+12. vh/vw is based on the viewport
