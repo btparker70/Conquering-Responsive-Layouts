@@ -18,3 +18,4 @@ Day2:
 10. max-width is good, min-width not really
 11. % is always based off of the parent
 12. vh/vw is based on the viewport
+13. containers pretty much always need width as %, max width in px, and padding
