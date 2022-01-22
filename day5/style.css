@@ -31,7 +31,6 @@ h1 {
 
 .col {
   width: 100%;
-  text-align: center;
 }
 
 .col + .col {
@@ -44,6 +43,22 @@ h1 {
 
 .hero p {
   margin-bottom: 3rem;
+}
+
+.three-col {
+  text-align: center;
+  padding: 3em 0;
+}
+
+.three-col h2 {
+  color: #87629A;
+}
+
+.two-col {
+  padding: 3em 0;
+  color: white;
+  background: #136c72;
+  text-align: center;
 }
 
 .btn {
@@ -60,11 +75,6 @@ h1 {
 .btn:hover,
 .btn:focus {
   opacity: .75;
-}
-
-.main {
-  color: white;
-  background: blue;
 }
 
 
