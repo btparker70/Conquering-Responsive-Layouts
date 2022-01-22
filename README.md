@@ -19,3 +19,6 @@ Day2:
 11. % is always based off of the parent
 12. vh/vw is based on the viewport
 13. containers pretty much always need width as %, max width in px, and padding
+14. The flex box parent is the flex container
+15. the children of a flex container are flex items
+16. col + .col{} this is a combinator

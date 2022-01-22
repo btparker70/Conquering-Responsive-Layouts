@@ -24,6 +24,20 @@ h1 {
   margin: 0 auto;
 } 
 
+.row {
+  display: flex;
+
+}
+
+.col {
+  width: 100%;
+  text-align: center;
+}
+
+.col + .col {
+  margin-left: 30px;
+}
+
 .hero__text {
   width: 60%;
 }
@@ -48,7 +62,10 @@ h1 {
   opacity: .75;
 }
 
-
+.main {
+  color: white;
+  background: blue;
+}
 
 
 
