@@ -59,17 +59,18 @@ img {
 .three-col {
   text-align: center;
   padding: 3em 0;
-}
-
-.three-col h2 {
-  color: #87629A;
-}
-
-.two-col {
-  padding: 3em 0;
+  width: 32%;
+  background: #136C72;
   color: white;
-  background: #136c72;
-  text-align: center;
+  margin: auto;
+}
+
+.main {
+  display: flex;
+  justify-content: space-around;
+  max-width: 80%;
+  padding: 3em 0;
+  margin: 0 auto;
 }
 
 .btn {
